@@ -5,3 +5,6 @@ Git-Tag: File2, Update1.
 Git-Tag: File2, Update2.
 
 Annotated-Tag: File2, Update3.
+
+Update to check tag deletion on Remote-Repo.
+
